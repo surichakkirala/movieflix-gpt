@@ -1,9 +1,10 @@
 import "./App.css";
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="text-2xl font-bold text-red-500">
-      New App in progress....
+    <div>
+      <Body />
     </div>
   );
 }
