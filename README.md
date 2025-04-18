@@ -30,6 +30,11 @@
 - Updated movie store with trailer video
 - Embedded the youtube video and make it autoplay and mute
 - Added Tailwind classes to make Maincontainer look cool
+- Build Secondary container
+- Build Movie list and Movie card
+- Added TMDB Image CDN URL
+- Created usePopularMovies custom hook
+- Used custom property to hide scroll bar
 
 # Features
 
