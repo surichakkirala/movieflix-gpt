@@ -19,6 +19,17 @@
   - Display name and profile picture update
   - If the user is not logged in redirect /browse to login page and vice versa
 - Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to constants file
+- Register TMDB API & create an app and get access token
+- Get data from TMDB for Now playing movies list API
+- Create custom hook for getting nowPlaying Movies list
+- Create Movie slice and add it to app store
+- Update movie store with movies data
+- Added Main container
+- Custom Hook created for trailer video
+- Updated movie store with trailer video
+- Embedded the youtube video and make it autoplay and mute
+- Added Tailwind classes to make Maincontainer look cool
 
 # Features
 
