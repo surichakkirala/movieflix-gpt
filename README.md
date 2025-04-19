@@ -35,6 +35,9 @@
 - Added TMDB Image CDN URL
 - Created usePopularMovies custom hook
 - Used custom property to hide scroll bar
+- GPT Search Page
+- GPT Search bar
+- Multi language feature in the App
 
 # Features
 
