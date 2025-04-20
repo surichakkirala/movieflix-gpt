@@ -38,6 +38,8 @@
 - GPT Search Page
 - GPT Search bar
 - Multi language feature in the App
+- Integrated Gemini API with GPT Search bar and displayed the movies based on search
+- Used Memoization to reduce the number of API calls
 
 # Features
 
@@ -74,3 +76,4 @@
       - Choose "No" for Setup automatic builds and deploys with GitHub
 - Run `npm run build` for creating a production build which needs to be deployed
 - Run `firebase deploy` to deploy the code (My project live URL: https://movieflixgpt-7b791.web.app)
+- Install gemini package from npm `npm install @google/genai`
