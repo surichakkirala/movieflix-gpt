@@ -23,4 +23,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "hindi", name: "Hindi" },
 ];
 
-export const SECRET_KEY = `${process.env.REACT_APP_SECRET_KEY}`;
+export const OPENAI_KEY = process.env.REACT_APP_SECRET_KEY;

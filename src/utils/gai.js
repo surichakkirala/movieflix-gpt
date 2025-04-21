@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
-import { SECRET_KEY } from "./constants";
+import { OPENAI_KEY } from "./constants";
 
-const ai = new GoogleGenAI({ apiKey: SECRET_KEY });
+const gai = new GoogleGenAI({ apiKey: OPENAI_KEY });
 
-export default ai;
+export default gai;
