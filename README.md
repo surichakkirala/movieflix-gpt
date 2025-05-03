@@ -1,3 +1,4 @@
+##  Live URL : https://mymovieflix-gpt.netlify.app/
 # Movieflix GPT
 
 - Create React App
@@ -75,5 +76,5 @@
       - Choose "No" for Configure as single-page app(rewrite all urls to /index.html)
       - Choose "No" for Setup automatic builds and deploys with GitHub
 - Run `npm run build` for creating a production build which needs to be deployed
-- Deployed in netlify
-- Live URL : https://mymovieflix-gpt.netlify.app/
+- Deployed using netlify
+
