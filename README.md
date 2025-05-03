@@ -75,5 +75,5 @@
       - Choose "No" for Configure as single-page app(rewrite all urls to /index.html)
       - Choose "No" for Setup automatic builds and deploys with GitHub
 - Run `npm run build` for creating a production build which needs to be deployed
-- Run `firebase deploy` to deploy the code (My project live URL: https://movieflixgpt-7b791.web.app)
-- Install gemini package from npm `npm install @google/genai`
+- Deployed in netlify
+- Live URL : https://mymovieflix-gpt.netlify.app/
