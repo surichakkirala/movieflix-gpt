@@ -1,4 +1,5 @@
-##  Live URL : https://mymovieflix-gpt.netlify.app/
+#  Live URL :
+- https://mymovieflix-gpt.netlify.app/
 # Movieflix GPT
 
 - Create React App
