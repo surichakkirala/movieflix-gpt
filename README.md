@@ -1,3 +1,9 @@
+# Techstack used
+  - React
+  - Redux
+  - Tailwind CSS for making UI look beautiful
+  - Firebase for authentication
+  - TMDB API for fetching movies list
 #  Live URL :
 - https://mymovieflix-gpt.netlify.app/
 # Movieflix GPT
